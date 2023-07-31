@@ -4,7 +4,6 @@ import datetime
 import pandas as pd 
 import matplotlib.pyplot as plt 
 import numpy as np 
-import ta 
 from finta import TA
 
 yf.pdr_override()
